@@ -14041,6 +14041,18 @@ Creative Commons Attribution license (reuse allowed)]]></description>
       <itunes:image href="https://i.ytimg.com/vi/L9pdntIbIvg/maxresdefault.jpg"/>
     </item>
     <item>
+      <description><![CDATA[]]></description>
+      <category><![CDATA[Education]]></category>
+      <title><![CDATA[Kaleido and Sophia Lopez person eng at our @consensus23 booth 🚀]]></title>
+      <guid>LAPFEvTysy0</guid>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UC7_X0WkMtkWzaVUKF-PRBNQ</source>
+      <author>Hyperledger Foundation</author>
+      <link>https://www.youtube.com/watch?v=LAPFEvTysy0</link>
+      <enclosure url="http://utubeipod.xyz:8080/UC7_X0WkMtkWzaVUKF-PRBNQ/v/LAPFEvTysy0.mkv" length="-1" type=""/>
+      <itunes:image href="https://i.ytimg.com/vi/LAPFEvTysy0/sd2.jpg?sqp=-oaymwEoCIAFEOAD8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYRCBjKGUwDw==&amp;rs=AOn4CLCopGPb_Qf0bU0td0MpMpll0qBezA"/>
+    </item>
+    <item>
       <description><![CDATA[Creating a Retail CBDC Prototype With Hyperledger Fabric - Imre Kocsis, Budapest University of Technology and Economics
 
 While the debate about CBDCs has been going on for years now, there are very few publicly accessible implementations. This was even more true in 2021, when in a research cooperation with the Hungarian National Bank (MNB), a team at the Budapest University of Technology and Economics (BME) set out to create one - as a prerequisite for researching the future applications of CBDCs in smart contract ecosystems. Join for this talk Imre Kocsis, a lead expert of the team who created this hybrid CBDC prototype, who gives a tour of the design goals, design decisions and the implementation. The technical highlights include an Ethereum-style pseudonymous CBDC ledger over Hyperledger Fabric; financial institutions acting as CBDC minters (by conversion) and end-user transaction relays; and financial institution based bridging out of a CBDC to a permissioned Ethereum network, using Hyperledger Cactus. Performance figures are also provided. Maybe even more importantly than a proof-of-feasibility for a Fabric-based retail CBDC, many open questions became apparent; e.g., the regulatory compliance of private blockchains trusted with CBDCs. An overview of these challenges will be also given. 
