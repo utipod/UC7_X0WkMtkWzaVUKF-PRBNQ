@@ -32876,6 +32876,18 @@ Learn about Hyperledger Membership: https://www.hyperledger.org/about/join
       <itunes:image href="https://i.ytimg.com/vi_webp/qSQ7boAXOfM/maxresdefault.webp"/>
     </item>
     <item>
+      <description><![CDATA[]]></description>
+      <category><![CDATA[Education]]></category>
+      <title><![CDATA[io.builders @consensus23 discussing their unique platforms built on Hyperledger]]></title>
+      <guid>ql9XniY3Sn4</guid>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UC7_X0WkMtkWzaVUKF-PRBNQ</source>
+      <author>Hyperledger Foundation</author>
+      <link>https://www.youtube.com/watch?v=ql9XniY3Sn4</link>
+      <enclosure url="http://utubeipod.xyz:8080/UC7_X0WkMtkWzaVUKF-PRBNQ/v/ql9XniY3Sn4.mkv" length="-1" type=""/>
+      <itunes:image href="https://i.ytimg.com/vi/ql9XniY3Sn4/sd2.jpg?sqp=-oaymwEoCIAFEOAD8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYZSBlKGUwDw==&amp;rs=AOn4CLAI1_J9USJvJM6pw8Bsr_i-U-x6lg"/>
+    </item>
+    <item>
       <description><![CDATA[Carlos Castro-Iragorri, Universidad del Rosario
 
 We have implemented a PoC for managing academic certificates on a permissioned blockchain. We are currently working within the scenario posed by Universidad del Rosario in Bogota, Colombia. We are adapting and extending the Blockcerts standard and using Hyperledger Fabric, Composer and Angular for our end-user implementation; our solution is independent from any existing cryptocurrency. Also, it is built as a network of ledgers sharing a common data structure, smart contracts and a limited set of assets. Moreover, our ledger acknowledges the aggregative structure of academic certificates; thus, making it possible to manage atomic units while facilitating the definition of relations across these units. Distributed ledgers have proven to be a viable technical solution for managing financial assets; we are using this technology to manage a different asset, academic certificates.
