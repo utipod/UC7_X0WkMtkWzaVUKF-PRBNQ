@@ -25163,6 +25163,47 @@ Learn about Hyperledger Membership: https://www.hyperledger.org/about/join
       <itunes:image href="https://i.ytimg.com/vi_webp/e0wiUhGf0t0/maxresdefault.webp"/>
     </item>
     <item>
+      <description><![CDATA[----
+Mark Rymsza discussing decentralized business automation as a service: Leveraging zkEVM and Hypeledger Firefly for Enterprise business, and the challenges with digital transformation and data sharing.
+
+Presented by the Enterprise ZK R&D team from ConsenSyS Mesh @Hyperledger Consensus 2023 booth.
+
+✦
+Decentralized business automation for Enterprise using ZK Roll-Ups on Ethereum
+00:00
+✦
+The increasing use of IoT devices in business processes is leading to a lack of trust and increasing costs for enterprises.
+03:43
+✦
+Zero trust network architecture is crucial for secure data exchange.
+07:22
+✦
+Zero knowledge cryptography enables granular access control enforcement
+10:36
+✦
+ZK EVM allows private execution of smart contracts for complex end-to-end digital services.
+14:02
+✦
+Firefly enables a trustless ZK internet for Enterprises
+17:00
+✦
+Developing two pilot products for end-to-end services in Telecom using ZK EVM as a service and DAO as a service.
+00:03
+✦
+Decentralized business automation is critical for future business success.
+
+22:57]]></description>
+      <category><![CDATA[Education]]></category>
+      <title><![CDATA[ConsenSys Mesh on zkEVM and Firefly for Enterprise]]></title>
+      <guid>e24-RpY7f_k</guid>
+      <pubDate>Mon, 08 May 2023 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UC7_X0WkMtkWzaVUKF-PRBNQ</source>
+      <author>Hyperledger Foundation</author>
+      <link>https://www.youtube.com/watch?v=e24-RpY7f_k</link>
+      <enclosure url="http://utubeipod.xyz:8080/UC7_X0WkMtkWzaVUKF-PRBNQ/v/e24-RpY7f_k.mkv" length="-1" type=""/>
+      <itunes:image href="https://i.ytimg.com/vi/e24-RpY7f_k/maxresdefault.jpg"/>
+    </item>
+    <item>
       <description><![CDATA[This is a video is part of a series of videos that will help you learn how to set up your Hyperledger Cactus development environment.  To see all videos in this series, check out the playlist at:
 
 https://www.youtube.com/playlist?list=PL0MZ85B_96CFyOUA87R7vjtjNaAMHRTOO
