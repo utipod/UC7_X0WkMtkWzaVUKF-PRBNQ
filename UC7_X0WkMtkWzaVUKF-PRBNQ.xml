@@ -1037,6 +1037,18 @@ Creative Commons Attribution license (reuse allowed)]]></description>
       <itunes:image href="https://i.ytimg.com/vi_webp/17mXRKboPC4/maxresdefault.webp"/>
     </item>
     <item>
+      <description><![CDATA[]]></description>
+      <category><![CDATA[Education]]></category>
+      <title><![CDATA[Largest NFT deployment with IPWE with @ #consensus23 #hyperledgercacti]]></title>
+      <guid>17sLDiLzGUU</guid>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UC7_X0WkMtkWzaVUKF-PRBNQ</source>
+      <author>Hyperledger Foundation</author>
+      <link>https://www.youtube.com/watch?v=17sLDiLzGUU</link>
+      <enclosure url="http://utubeipod.xyz:8080/UC7_X0WkMtkWzaVUKF-PRBNQ/v/17sLDiLzGUU.mkv" length="-1" type=""/>
+      <itunes:image href="https://i.ytimg.com/vi/17sLDiLzGUU/hq2.jpg"/>
+    </item>
+    <item>
       <description><![CDATA[Blockchain Automation Framework (BAF) 提供了一个自动化框架，用于快速并统一地将生产级的DLT平台部署到云基础架构上。
 BAF利用Ansible，Helm和Kubernetes部署生产级DLT网络。具体来说，它利用了Ansible进行DevOps工程师对网络的配置。然后用Helm Chart引导将必要组件部署到Kubernetes。选择Kubernetes是为了允许BAF将DLT网络部署到支持Kubernetes的任何云中。
 
