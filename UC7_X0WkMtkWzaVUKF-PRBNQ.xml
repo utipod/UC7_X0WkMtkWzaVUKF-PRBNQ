@@ -31467,6 +31467,48 @@ Learn about Hyperledger Membership: https://www.hyperledger.org/about/join
       <itunes:image href="https://i.ytimg.com/vi_webp/nJk9GXExR-M/maxresdefault.webp"/>
     </item>
     <item>
+      <description><![CDATA[----
+Speaker: Sanjiv Maewall
+
+Video Length: 10min
+
+Key Points:
+
+Blockchain Development Simplified: Hyperledger Firefly is an open source platform that provides building blocks to simplify blockchain application development. It can help developers create safe and scalable applications. 
+
+Hyperledger – Open Source Blockchain Technologies
+
+Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments.
+It serves as a neutral home for various distributed ledger frameworks including Hyperledger Besu, Fabric, Sawtooth, Indy, as well as tools like Hyperledger Avalon, Cactus and libraries like Hyperledger Aries, Ursa. Learn more about Hyperledger projects: https://www.hyperledger.org/use
+
+Discord: https://discord.gg/rVCn4j7UFd
+Case Studies: https://www.hyperledger.org/learn/case-studies
+Training & Certification: https://www.hyperledger.org/learn/training
+Tutorials: https://www.hyperledger.org/use/tutorials
+Webinars: https://www.hyperledger.org/learn/webinars
+Events: https://www.hyperledger.org/events 
+Vendor Directory: https://www.hyperledger.org/use/vendor-directory 
+
+Subscribe to the Hyperledger Newsletter: https://www.hyperledger.org/newsletter
+
+Follow-us on Twitter @Hyperledger 
+
+Learn about Hyperledger Membership: https://www.hyperledger.org/about/join
+
+#Hyperledger #Blockchain
+License
+Creative Commons Attribution license (reuse allowed)]]></description>
+      <category><![CDATA[Education]]></category>
+      <title><![CDATA[BDA Blockchain with Deloitte]]></title>
+      <guid>nRuqe-vnFZg</guid>
+      <pubDate>Wed, 10 May 2023 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UC7_X0WkMtkWzaVUKF-PRBNQ</source>
+      <author>Hyperledger Foundation</author>
+      <link>https://www.youtube.com/watch?v=nRuqe-vnFZg</link>
+      <enclosure url="http://utubeipod.xyz:8080/UC7_X0WkMtkWzaVUKF-PRBNQ/v/nRuqe-vnFZg.mkv" length="-1" type=""/>
+      <itunes:image href="https://i.ytimg.com/vi/nRuqe-vnFZg/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CIAC0AWKAgwIABABGGUgZShlMA8=&amp;rs=AOn4CLDwdm4KE5VpkvHrs1M570Tzv9VVRQ"/>
+    </item>
+    <item>
       <description><![CDATA[Universal Rendering of SSI Credentials - Horacio Nunez, Kiva
 
 One of the keys for the successful adoption of self-sovereign technologies is the degree of visual relativity with its analog counterparts. In this presentation Horacio Nunez will discuss the current methods of visualizing SSI credentials and present a new open source approach towards a universal rendering built on top of Hyperledger Aries protocol. As part of our demonstration we will share how the application of this approach can improve the final UX of initiatives based on Kiva Protocol that actively aim to maximize financial inclusion in the development world.
