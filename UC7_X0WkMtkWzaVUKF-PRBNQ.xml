@@ -20472,6 +20472,45 @@ Learn about Hyperledger Membership: https://www.hyperledger.org/about/join
       <itunes:image href="https://i.ytimg.com/vi_webp/VyqxH9ayjBo/maxresdefault.webp"/>
     </item>
     <item>
+      <description><![CDATA[Identity SIG wiki page:
+https://wiki.hyperledger.org/display/IWG/2023-05-04%3A+Identity+Special+Interest+Group  
+
+Demo. link: https://digital.gov.bc.ca/digital-trust/showcase/
+
+----
+Hyperledger – Open Source Blockchain Technologies
+
+Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments.
+It serves as a neutral home for various distributed ledger frameworks including Hyperledger Besu, Fabric, Sawtooth, Indy, as well as tools like Hyperledger Avalon, Cactus and libraries like Hyperledger Aries, Ursa. Learn more about Hyperledger projects: https://www.hyperledger.org/use
+
+Discord: https://discord.gg/rVCn4j7UFd
+Case Studies: https://www.hyperledger.org/learn/case-studies
+Training & Certification: https://www.hyperledger.org/learn/training
+Tutorials: https://www.hyperledger.org/use/tutorials
+Webinars: https://www.hyperledger.org/learn/webinars
+Events: https://www.hyperledger.org/events 
+Vendor Directory: https://www.hyperledger.org/use/vendor-directory 
+
+Subscribe to the Hyperledger Newsletter: https://www.hyperledger.org/newsletter
+
+Follow-us on Twitter @Hyperledger 
+
+Learn about Hyperledger Membership: https://www.hyperledger.org/about/join
+
+#Hyperledger #Blockchain
+License
+Creative Commons Attribution license (reuse allowed)]]></description>
+      <category><![CDATA[Entertainment]]></category>
+      <title><![CDATA[Identity SIG Call for May 4, 2023]]></title>
+      <guid>W2FuMq_YMaY</guid>
+      <pubDate>Thu, 04 May 2023 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UC7_X0WkMtkWzaVUKF-PRBNQ</source>
+      <author>Hyperledger Foundation</author>
+      <link>https://www.youtube.com/watch?v=W2FuMq_YMaY</link>
+      <enclosure url="http://utubeipod.xyz:8080/UC7_X0WkMtkWzaVUKF-PRBNQ/v/W2FuMq_YMaY.mkv" length="-1" type=""/>
+      <itunes:image href="https://i.ytimg.com/vi/W2FuMq_YMaY/hqdefault.jpg?v=6453e6d5"/>
+    </item>
+    <item>
       <description><![CDATA[Swetha Repakula & Jay Guo, IBM
 
 Hyperledger Fabric is a permissioned blockchain platform where people build applications to communicate and interact with deployed smart contracts. However, smart contracts and apps must be written in programming languages like Go or Javascript. Alternatively, Ethereum made it friendly to write smart contracts by inventing Contract-Oriented Languages, e.g. Solidity, and created a Web3 library that can be used to interact with smart contracts.
