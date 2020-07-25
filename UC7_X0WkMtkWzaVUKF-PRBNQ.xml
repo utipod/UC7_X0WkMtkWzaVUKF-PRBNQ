@@ -17894,6 +17894,18 @@ Learn about Hyperledger Membership: https://www.hyperledger.org/about/join
       <itunes:image href="https://i.ytimg.com/vi_webp/RJhifrmSiNA/maxresdefault.webp"/>
     </item>
     <item>
+      <description><![CDATA[]]></description>
+      <category><![CDATA[Education]]></category>
+      <title><![CDATA[Casper Labs introduction at #consensus23]]></title>
+      <guid>RM1hqyWkSqE</guid>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UC7_X0WkMtkWzaVUKF-PRBNQ</source>
+      <author>Hyperledger Foundation</author>
+      <link>https://www.youtube.com/watch?v=RM1hqyWkSqE</link>
+      <enclosure url="http://utubeipod.xyz:8080/UC7_X0WkMtkWzaVUKF-PRBNQ/v/RM1hqyWkSqE.mkv" length="-1" type=""/>
+      <itunes:image href="https://i.ytimg.com/vi/RM1hqyWkSqE/sd2.jpg?sqp=-oaymwEoCIAFEOAD8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYUCBlKGUwDw==&amp;rs=AOn4CLDo_MAlcSGei8OuaDV_H0s_djn9yA"/>
+    </item>
+    <item>
       <description><![CDATA[Hart Montgomery, Fujitsu Laboratories of America
 
 Achieving strong privacy and confidentiality on a blockchain can be a difficult thing to get right. In fact, it can even be difficult to map real-world privacy and confidentiality requirements into functional blockchain requirements. In this talk we discuss various aspects of cryptography, security modelling, and the techniques involved in different Hyperledger projects--including things like threshold signatures, SNARKs, security games, universally composable cryptography, the shared crypto-lib, Sawtooth's private data objects, and Fabric's channels--that enable us to build blockchains that have various privacy and confidentiality properties. We will give an overview of what it means to be a secure blockchain with regards to privacy and confidentiality and explain the best practices towards achieving this.
